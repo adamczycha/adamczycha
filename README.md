@@ -1,6 +1,7 @@
 ### Hi there I'm Marcel 👋
 
 🎓 Data Engineering Student at Gdańsk University of Technology
+
 🔍 Proficient in Python, SQL, Microsoft Power BI.
 🌱 Currently learning data modeling with scikit-learn & exploring deep learning with PyTorch
 <!--
